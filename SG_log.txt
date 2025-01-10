@@ -1,3 +1,35 @@
+0;1;2;3;4 (10 January 2025)
+https://survey-site.com?fid=1000075e640aed1f3157ae83b0649d03&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>
+
+5;6;7;8;9 (10 January 2025)
+https://survey-site.com?fid=c7e8dade7e49148f2960aa799d71b755&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>
+
+Naruto Ascension (10 January 2025)
+https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_NarutoAscension_01_en.jpg
+
+V2 (11 January 2025)
+https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_SakuraMysteryShop_01_en.jpg
+
+FW Ninjutsu Themed Fist (13 January 2025)
+https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_FWNinjutsuFist_01_en.jpg
+
+Becoming Ninja Login Mission (11 January 2025)
+https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_BecomingANinja_01_en.jpg
+
+Nine Tails Strike Tutorial (13 January 2025)
+https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_NineTailsStrikeTutorial_01_en.jpg
+
+Visit Hidden Leaf Village (12 January 2025)
+https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_VisitHiddenLeafVillage_01_en.jpg
+
+Naruto Special Interface (10 January 2025)
+https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_NarutoSpecialInterface_01_en.jpg
+
+Naruto Ascension (12 January 2025)
+https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_NarutoAscension_01_en.jpg
+.........................
+
+
 SG (23 December 2024)
 https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_EN_legdauct.jpg
 
