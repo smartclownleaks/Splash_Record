@@ -1,3 +1,26 @@
+Feedback Survey (13 January 2025)
+https://ind.survey-site.com?fid=1035187b5076164725252ae2511926a1&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>
+
+5;6;7;8;9 (10 January 2025)
+https://ind.survey-site.com?fid=0ebd616e870d24de283dfd4a71e1adab&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>
+
+0;1;2;3;4 (10 January 2025)
+https://ind.survey-site.com?fid=de9c2c8e855a5e063ff6ad53e93c7e18&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>
+
+Friend Callback (14 January 2025)
+https://dl-tata.freefireind.in/common/Local/IND/config/1750x1070_FriendCallbackIND_en.jpg
+
+Naruto Interface Token Tutorial  (13 January 2025)
+https://dl-tata.freefireind.in/common/Local/IND/config/1750x1070_NarutoInterfaceTokenSplashIND_en.jpg
+
+Faded Wheel: NINJUTSU THEME FIST* (13 January 2025)
+https://dl-tata.freefireind.in/common/Local/IND/config/1750x1070_ChidoriFistSplashIND_en.jpg
+
+V2 (14 January 2025)
+https://dl-tata.freefireind.in/common/Local/IND/config/1750x1070_SuperEmoteSplashIND_en.jpg
+.........................
+
+
 5;6;7;8;9 (10 January 2025)
 https://ind.survey-site.com?fid=0ebd616e870d24de283dfd4a71e1adab&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>
 
