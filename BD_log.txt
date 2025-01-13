@@ -1,3 +1,20 @@
+0;1;2;3;4 (10 January 2025)
+https://survey-site.com?fid=1000075e640aed1f3157ae83b0649d03&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>
+
+5;6;7;8;9 (10 January 2025)
+https://survey-site.com?fid=c7e8dade7e49148f2960aa799d71b755&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>
+
+Naruto Interface Token Tutorial (13 January 2025)
+https://dl.dir.freefiremobile.com/common/Local/IND/config/NarutoInterfaceTutorialBD_en.jpg
+
+Faded Wheel: NINJUTSU THEME FIST (13 January 2025)
+https://dl.dir.freefiremobile.com/common/Local/IND/config/FW_NinjutstBD_en.jpg
+
+V2 (14 January 2025)
+https://dl.dir.freefiremobile.com/common/Local/IND/config/SuperEmoteBD_en.jpg
+.........................
+
+
 BD (27 December 2024)
 https://legendaryauction.sea.freefiremobile.com/?region=%3CFF_REGION%3E&lang=%3CFF_LANGUAGE%3E&access_token=%3CGARENA_TOKEN%3E
 
