@@ -10,6 +10,38 @@ https://dl.dir.freefiremobile.com/common/Local/IND/config/NarutoInterfaceTutoria
 Faded Wheel: NINJUTSU THEME FIST (13 January 2025)
 https://dl.dir.freefiremobile.com/common/Local/IND/config/FW_NinjutstBD_en.jpg
 
+BD (16 January 2025)
+https://dl.dir.freefiremobile.com/common/Local/IND/config/PreHeatSusakeMissionBD_en.jpg
+
+V2 (14 January 2025)
+https://dl.dir.freefiremobile.com/common/Local/IND/config/SuperEmoteBD_en.jpg
+
+BD (15 January 2025)
+https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_NarutoAscension_en.jpg
+
+FriendsCallBack (14 January 2025)
+https://dl.dir.freefiremobile.com/common/Local/IND/config/FriendsCallBackBD_en.jpg
+
+CGTrilar (15 January 2025)
+https://dl.dir.freefiremobile.com/common/Local/IND/config/Naruto_CGTrilarBD_en.jpg
+
+Sasuke Ring: SASUKE SERIES (16 January 2025)
+https://dl.dir.freefiremobile.com/common/Local/IND/config/SasukeRingBD_en.jpg
+.........................
+
+
+0;1;2;3;4 (10 January 2025)
+https://survey-site.com?fid=1000075e640aed1f3157ae83b0649d03&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>
+
+5;6;7;8;9 (10 January 2025)
+https://survey-site.com?fid=c7e8dade7e49148f2960aa799d71b755&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>
+
+Naruto Interface Token Tutorial (13 January 2025)
+https://dl.dir.freefiremobile.com/common/Local/IND/config/NarutoInterfaceTutorialBD_en.jpg
+
+Faded Wheel: NINJUTSU THEME FIST (13 January 2025)
+https://dl.dir.freefiremobile.com/common/Local/IND/config/FW_NinjutstBD_en.jpg
+
 V2 (14 January 2025)
 https://dl.dir.freefiremobile.com/common/Local/IND/config/SuperEmoteBD_en.jpg
 .........................
